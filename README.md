@@ -1,12 +1,7 @@
 # Robot_motion_planning
 
-**********************************************
-**********************************************
-******* 			                         *******
+
 *******	Approximate cell decomposition *******
-*******				                         *******
-**********************************************
-**********************************************
 
 Questo progetto è un'applicazione Python che riguarda la pianificazione del moto di un robot tra ostacoli basandosi sul metodo di decomposizione in celle approssimata.
 L'ambiente è rappresentato da una griglia di occupazione; ogni cella può essere libera, occupata dal robot o da un ostacolo. 
