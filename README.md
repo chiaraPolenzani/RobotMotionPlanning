@@ -13,7 +13,7 @@ La soluzione è quella di utilizzare una griglia adattativa, che suddivide i nod
 
 - Librerie necessarie: tkinter, shapely, random, heapq, PIL, numpy, imageio.v3, glob, time, threading.
 
-- Il progetto è salvato in formato .rar, facilmente caricabile da Visual Studio Code oppure manovrando i file .py all'interno.
+- Versione Python utilizzata: 3.9.5
 
 - Il file principale è main.py nel quale è presente il metodo "main" per eseguire l'applicazione.
 
