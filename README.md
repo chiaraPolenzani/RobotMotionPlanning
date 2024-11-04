@@ -1,4 +1,4 @@
-# Robot_motion_planning
+# RobotMotionPlanning
 
 
 *******	Approximate cell decomposition *******
